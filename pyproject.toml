@@ -1,6 +1,6 @@
 [project]
 name = "disjoint-set-union-kit"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python union-find data structure with union-by-size and path compression"
 requires-python = ">=3.10"
 dependencies = []
